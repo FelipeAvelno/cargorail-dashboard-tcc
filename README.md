@@ -1,6 +1,6 @@
 # Dashboard de Monitoramento Ferroviário em Tempo Real
 
-> Trabalho de Conclusão de Curso (TCC) - Engenharia de Controle e Automação (2025)
+> Trabalho de Conclusão de Curso (TCC) - Automação Industrial (2025)
 
 Este projeto consiste em um dashboard interativo para monitoramento em tempo real de operações ferroviárias. O sistema consome dados de logs operacionais (`trem_log1`) e apresenta indicadores chave de desempenho (KPIs) e gráficos estatísticos para auxílio na tomada de decisão.
 
